@@ -1,6 +1,6 @@
 # Hi there, I'm Haoxian - You can call me Arthur 👋 
 I am a graduate student majoring in Information Technology!  
-At this moment, I'm finding a job for software developer/software engineer.  
+At this moment, I'm finding a job as a software developer/software engineer.  
 Just bought Baldur's Gate 3 and waiting for Starfield.
 
 ## About Me.
