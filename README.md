@@ -10,7 +10,7 @@ Just bought Baldur's Gate 3 and waiting for Starfield.
 - :video_game: Dream job: Be a programmer in video game company
 - :joystick: Hug fan of video games, would achieved the platinum trophy for games I'm interested in
 - :closed_book: Have great interest in history and philosophy
-- :earth_asia:  Speak Chinese(Cantonese and Mandarin) natively and English fluently
+- :earth_asia: Speak Chinese(Cantonese and Mandarin) natively and English fluently
 
 ### Languages and Tools:
 
