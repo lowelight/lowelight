@@ -8,7 +8,7 @@ Just bought Baldur's Gate 3 and waiting for Starfield.
 <li>⌨️ Love coding and developing functions in python </li>
 <li>🔋  Eager to learn new things in programming</li>
 <li>🎮 Dream job: Be a programmer in video game company</li>
-<li>🕹️ Huge fan of video games, would achieved the platinum trophy for games I'm interested in</li>
+<li>🕹️ Huge fan of video games, would achieve the platinum trophies for games I'm interested in</li>
 <li>📕 Have great interest in history and philosophy</li>
 <li>🌏 Speak Chinese(Cantonese and Mandarin) natively and English fluently</li>
 
