@@ -13,7 +13,7 @@ Just bought Baldur's Gate 3 and waiting for Starfield.
 <li>📕 Have great interest in history and philosophy</li>
 <li>🌏 Speak Chinese(Cantonese and Mandarin) natively and English fluently</li>
 
-## 💻 Languages and Tools:
+## 💻 Languages and Something interesting:
 
 <img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" style="padding-right:10px;" />
@@ -25,7 +25,10 @@ Just bought Baldur's Gate 3 and waiting for Starfield.
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="26px" src="https://simpleicons.org/icons/ubuntu.svg" style="padding-right:10px;" />
 <img align="left" alt="Dash" width="26px" src="https://simpleicons.org/icons/dash.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Steam" width="26px" src="https://simpleicons.org/icons/steam.svg" style="padding-right:10px;" />
+<img align="left" alt="Playstation" width="26px" src="https://simpleicons.org/icons/playstation.svg" style="padding-right:10px;" />
 
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowelight&layout=compact)](https://github.com/Your_GitHub_Username/github-readme-stats)
