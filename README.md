@@ -3,7 +3,7 @@ I am a graduate student majoring in Information Technology!
 At this moment, I'm finding a job as a software developer/software engineer.  
 Just bought Baldur's Gate 3 and waiting for Starfield.
 
-## About Me.
+## 💂 About Me.
 
 <li>⌨️ Love coding and developing functions in python </li>
 <li>🔋  Eager to learn new things in programming</li>
@@ -12,7 +12,7 @@ Just bought Baldur's Gate 3 and waiting for Starfield.
 <li>📕 Have great interest in history and philosophy</li>
 <li>🌏 Speak Chinese(Cantonese and Mandarin) natively and English fluently</li>
 
-### Languages and Tools:
+## 💻 Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" style="padding-right:10px;" />
