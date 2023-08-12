@@ -26,11 +26,25 @@ The book I'm reading right now is _The Whale_
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="26px" src="https://simpleicons.org/icons/ubuntu.svg" style="padding-right:10px;" />
 <img align="left" alt="Dash" width="26px" src="https://simpleicons.org/icons/dash.svg" style="padding-right:10px;" />
-<img align="left" alt="Steam" width="26px" src="https://simpleicons.org/icons/steam.svg" style="padding-right:10px;" />
-<img align="left" alt="Playstation" width="26px" src="https://simpleicons.org/icons/playstation.svg" style="padding-right:10px;" />
 
 <br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowelight&layout=compact)](https://github.com/Your_GitHub_Username/github-readme-stats)
 <a href="#"><img align="right" src="https://github.com/lowelight/lowelight/raw/main/image/gif/coding.gif" width="200 " height="200" /></a>
+
+<br />
+<br />
+
+<details>
+  <summary><h2>🥰 Mental sustenance</h2></summary>
+<img align="left" alt="Steam" width="26px" src="https://simpleicons.org/icons/steam.svg" style="padding-right:10px;" />
+<img align="left" alt="Playstation" width="26px" src="https://simpleicons.org/icons/playstation.svg" style="padding-right:10px;" />
+Some games I'm addicted to： *Bloodbrone*, *Ghost of tsushima*, *FFXIV*, *Escape from Tarkov*, *Metal gear soild V Phantom pain*, *Octopath Traveler*
+</details>
+
+
+
+
+
+
