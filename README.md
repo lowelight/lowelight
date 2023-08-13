@@ -6,7 +6,7 @@ The book I'm reading right now is _The Whale_
 
 <a href="#"><img align="right" src="https://github.com/lowelight/lowelight/raw/main/image/gif/poppp.gif" width="200 " height="200" /></a>
 
-## 💂 About Me.
+## 💂 About Me
 <li>⌨️ Love coding and developing functions in python </li>
 <li>🔋  Eager to learn new things in programming</li>
 <li>🎮 Dream job: Be a programmer in video game company</li>
