@@ -40,9 +40,9 @@ The book I'm reading right now is _The Whale_
   <summary><h2>🥰 Mental sustenance</h2></summary>
 <img align="left" alt="Steam" width="26px" src="https://simpleicons.org/icons/steam.svg" style="padding-right:10px;" />
 <img align="left" alt="Playstation" width="26px" src="https://simpleicons.org/icons/playstation.svg" style="padding-right:10px;" /><br><br>
-Some <b>games</b> I'm addicted to: <i>Bloodbrone, Ghost of tsushima, FFXIV, Batttlefield 1, MGSV, Octopath Traveler, RDR2, Persona 5</i><br>
-Some <b>books</b> I think are treasures: <i>Critique of Pure Reason, One Hundred Years of Solitude, The history of peloponnesian war,</i> <i>A history of philosophy</i> by Frank Thilly <br>
-Some classic <b>movies</b> and <b>anime</b>: <i>Black hawk down, Forrest gump, Gundam seed, Attack on Titan, K-On!</i><br>
+Some <b>games</b> I'm addicted to: <i>Bloodbrone, Ghost of tsushima, FFXIV, Batttlefield 1, MGSV, Octopath Traveler, RDR2, Persona 5 ...</i><br>
+Some <b>books</b> I think are treasures: <i>Critique of Pure Reason, One Hundred Years of Solitude, The history of peloponnesian war,</i> <i>A history of philosophy</i> by Frank Thilly ...<br>
+Some classic <b>movies</b> and <b>anime</b>: <i>Black hawk down, Forrest gump, Gundam seed, Attack on Titan, K-On! ...</i><br>
 </details>
 
 
