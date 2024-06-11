@@ -1,7 +1,7 @@
 # Hi there, I'm Haoxian - You can call me Arthur 👋 
 I am a graduate student majoring in Information Technology!  
 At this moment, I'm finding a job as a software developer/software engineer.  
-Just bought Baldur's Gate 3 and waiting for Starfield.  
+I love WOW.  
 
 
 <a href="#"><img align="right" src="https://github.com/lowelight/lowelight/raw/main/image/gif/poppp.gif" width="200 " height="200" /></a>
