@@ -18,7 +18,6 @@ I love WOW.
 
 <img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" style="padding-right:10px;"/>
 <img align="left" alt="Flask" width="26px" src="https://simpleicons.org/icons/flask.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/react.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" style="padding-right:10px;" />
